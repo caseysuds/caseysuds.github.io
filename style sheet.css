@@ -1,0 +1,24 @@
+body { background: moccasin;
+       color: royalblue;
+       font-size: 20pt; }
+
+ { font-family: 'Manuale', sans-serif; }
+
+
+h1 { font-size: 160%;
+     font-weight: bold;
+     color: navy }
+     
+h2 { font-size: 175%;
+     font-weight: bold;
+     color: black 
+     font-style: italic}
+     
+
+nav li { padding: 10px;
+	    margin: 5px;
+	    background: white }
+	    
+	   
+
+
